@@ -1,1 +1,1 @@
-<embed src="https://uncommonthinker.github.io/pdf/cv.pdf" type="application/pdf" />
+<embed src="https://uncommonthinker.github.io/pdf/cv.pdf" type="application/pdf"/>
